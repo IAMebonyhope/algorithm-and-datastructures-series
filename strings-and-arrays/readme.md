@@ -100,7 +100,7 @@ Example
 
 ## Practice Questions
 
-### Beginner:
+### Beginner
 
 [https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/) (come up with an optimal O(log n) solution using 2-pointer approach)
 
@@ -119,6 +119,12 @@ Example
 [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 [https://leetcode.com/problems/circular-array-loop/](https://leetcode.com/problems/circular-array-loop/)
+
+[https://leetcode.com/problems/find-and-replace-in-string/](https://leetcode.com/problems/find-and-replace-in-string/)
+
+[https://leetcode.com/problems/insert-delete-getrandom-o1/](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+
+
 
 <br>
 <br>
